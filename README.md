@@ -2,6 +2,14 @@
 ```
 PRUEBA DE DIAGNOSTICO DESIS.CL
 ```
+# RUTA DE DESCARGA DEL REPOSITORIO
+```
+"C:\xampp\htdocs"
+Se descarga el repositorio en la ruta especificada 
+para crear una coneccion de servidor mediante la herramienta Xampp
+```
+<img src="assets/document/ruta_descarga_repositorio.png" alt="Ruta_descarga_repositorio_GIT" width="600px">
+
 
 # LENGUAJES Y HERRAMIENTAS UTILIZADOS
 ```
@@ -54,17 +62,10 @@ Insertar datos en tabla CANDIDATO
 ```
 <img src="assets/document/insertar_candidatos.gif" alt="insertar_candidato" width="600px">
 
-# RUTA DE DESCARGA DEL REPOSITORIO
-```
-"C:\xampp\htdocs"
-Se descarga el repositorio en la ruta especificada 
-para crear una coneccion de servidor mediante la herramienta Xampp
-```
-<img src="assets/document/ruta_descarga_repositorio.png" alt="Ruta_descarga_repositorio_GIT" width="600px">
 
 # URL DEL PROYECTO
 ```
-"http://localhost/DesisCL/templates/" 
+"http://localhost/DesisCL" 
 
 Esta ruta se debe copiar y pegar en el navegador para acceder a la vista del formulario.
 ```
